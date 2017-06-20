@@ -2,8 +2,8 @@
 
 using the [Angular Tutorial](https://angular.io/tutorial) to add the Tour Of Heroes pages to the [Ionic Tutorial](https://ionicframework.com/docs/intro/tutorial/) app.
 
-- [The Hero Editor](https://angular.io/tutorial/toh-pt1)
-
+1 [The Hero Editor](https://angular.io/tutorial/toh-pt1)
+2 [Master/Detail](https://angular.io/tutorial/toh-pt2)
 
 -----------------------------------
 
