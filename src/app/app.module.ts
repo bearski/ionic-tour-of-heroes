@@ -11,6 +11,7 @@ import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 
 import { HeroDetailComponent } from '../pages/hero/hero-detail.component';
+import { HeroService } from '../pages/hero/hero.service';
 
 @NgModule({
   declarations: [
@@ -36,7 +37,8 @@ import { HeroDetailComponent } from '../pages/hero/hero-detail.component';
   providers: [
     StatusBar,
     SplashScreen,
-    {provide: ErrorHandler, useClass: IonicErrorHandler}
+    {provide: ErrorHandler, useClass: IonicErrorHandler},
+    HeroService
   ]
 })
 export class AppModule {}
