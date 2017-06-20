@@ -1,6 +1,6 @@
 # ionic-angular tour of heroes
 
-using the [Angular Tutorial] (https://angular.io/tutorial) to add the Tour Of Heroes pages to the Ionic Framework tutorial app.
+using the [Angular Tutorial](https://angular.io/tutorial) to add the Tour Of Heroes pages to the Ionic Framework tutorial app.
 
 - [The Hero Editor](https://angular.io/tutorial/toh-pt1)
 
