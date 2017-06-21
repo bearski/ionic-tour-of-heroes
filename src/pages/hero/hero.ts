@@ -12,7 +12,6 @@ import { HeroService } from './hero.service';
  */
 
 
-
 @IonicPage()
 @Component({
   selector: 'page-hero',
